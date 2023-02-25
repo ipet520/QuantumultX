@@ -64,7 +64,7 @@ HOST-SUFFIX,icloud.com.akadns.net,iCloud
 # NAME: TestFlight
 HOST,beta.apple.com,TestFlight
 HOST,testflight.apple.com,TestFlight
-HOST-KeyWORD,testflight,TestFlight
+HOST-KEYWORD,testflight,TestFlight
 # NAME: AppleMail
 HOST-SUFFIX,mail.icloud.com.cn,AppleMail
 HOST-SUFFIX,mail.me.com,AppleMail
