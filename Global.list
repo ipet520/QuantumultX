@@ -446,7 +446,6 @@ HOST-SUFFIX, golang.org, PROXY
 # ---(Apple)---
 HOST-SUFFIX, appsto.re, PROXY
 HOST-SUFFIX, smoot.apple.com, PROXY
-HOST-SUFFIX, apps.apple.com, Proxy
 HOST-SUFFIX,apple-dns.net, Proxy
 HOST-SUFFIX,blobstore.apple.com, Proxy
 HOST-SUFFIX,digicert.com, Proxy
@@ -456,6 +455,7 @@ HOST, books.itunes.apple.com, PROXY
 HOST, lookup-api.apple.com, PROXY
 HOST, radio.itunes.apple.com, PROXY
 # > Web Preview
+HOST, apps.apple.com, PROXY
 HOST, books.apple.com, PROXY
 HOST, itunes.apple.com, PROXY
 HOST, tv.apple.com, PROXY
