@@ -1,5 +1,4 @@
 HOST,apps.apple.com,AppStore
-HOST,itunes.apple.com,AppStore
 HOST,www-cdn.icloud.com.akadns.net,iCloud
 HOST-SUFFIX,apple-cloudkit.com,iCloud
 HOST-SUFFIX,apple-icloud.cn,iCloud
@@ -61,7 +60,6 @@ HOST-SUFFIX,wwwicloud.com,iCloud
 HOST-SUFFIX,icloud.com.akadns.net,iCloud
 HOST,beta.apple.com,TestFlight
 HOST,testflight.apple.com,TestFlight
-HOST-KEYWORD,testflight,TestFlight
 HOST-SUFFIX,mail.icloud.com.cn,AppleMail
 HOST-SUFFIX,mail.me.com,AppleMail
 HOST,aod-ssl.itunes.apple.com,AppleMusic
@@ -116,7 +114,6 @@ HOST-KEYWORD, apple.com.akadns.net, Apple
 HOST-KEYWORD, testflight, Apple
 HOST-KEYWORD, icloud.com.akadns.net, Apple
 USER-AGENT, Music*, Apple
-USER-AGENT, com.apple.trustd*, Apple
 IP-CIDR, 139.178.128.0/18, Apple
 IP-CIDR, 144.178.0.0/19, Apple
 IP-CIDR, 144.178.36.0/22, Apple
