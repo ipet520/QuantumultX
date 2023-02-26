@@ -1,126 +1,108 @@
-HOST,apps.apple.com,AppStore
-HOST,www-cdn.icloud.com.akadns.net,iCloud
-HOST-SUFFIX,apple-cloudkit.com,iCloud
-HOST-SUFFIX,apple-icloud.cn,iCloud
-HOST-SUFFIX,apple-livephotoskit.com,iCloud
-HOST-SUFFIX,appleicloud.cn,iCloud
-HOST-SUFFIX,applemx-icloud.com,iCloud
-HOST-SUFFIX,apzones.com,iCloud
-HOST-SUFFIX,cdn-apple.com,iCloud
-HOST-SUFFIX,gc.apple.com,iCloud
-HOST-SUFFIX,icloud-apple.cn,iCloud
-HOST-SUFFIX,icloud-content.com,iCloud
-HOST-SUFFIX,icloud-isupport.com,iCloud
-HOST-SUFFIX,icloud.apple.com,iCloud
-HOST-SUFFIX,icloud.ch,iCloud
-HOST-SUFFIX,icloud.com,iCloud
-HOST-SUFFIX,icloud.com.cn,iCloud
-HOST-SUFFIX,icloud.de,iCloud
-HOST-SUFFIX,icloud.ee,iCloud
-HOST-SUFFIX,icloud.fi,iCloud
-HOST-SUFFIX,icloud.fr,iCloud
-HOST-SUFFIX,icloud.hu,iCloud
-HOST-SUFFIX,icloud.ie,iCloud
-HOST-SUFFIX,icloud.is,iCloud
-HOST-SUFFIX,icloud.jp,iCloud
-HOST-SUFFIX,icloud.lv,iCloud
-HOST-SUFFIX,icloud.net.cn,iCloud
-HOST-SUFFIX,icloud.om,iCloud
-HOST-SUFFIX,icloud.org,iCloud
-HOST-SUFFIX,icloud.pt,iCloud
-HOST-SUFFIX,icloud.ro,iCloud
-HOST-SUFFIX,icloud.se,iCloud
-HOST-SUFFIX,icloud.si,iCloud
-HOST-SUFFIX,icloud.sk,iCloud
-HOST-SUFFIX,icloud.vn,iCloud
-HOST-SUFFIX,icloudads.net,iCloud
-HOST-SUFFIX,icloudapple.cn,iCloud
-HOST-SUFFIX,icloudbox.net,iCloud
-HOST-SUFFIX,icloudbrowser.net,iCloud
-HOST-SUFFIX,icloude.com,iCloud
-HOST-SUFFIX,icloudhome.com,iCloud
-HOST-SUFFIX,icloudmail.net,iCloud
-HOST-SUFFIX,icloudmusic.net,iCloud
-HOST-SUFFIX,icloudnet.net,iCloud
-HOST-SUFFIX,icloudo.com,iCloud
-HOST-SUFFIX,icloudo.de,iCloud
-HOST-SUFFIX,icloudo.net,iCloud
-HOST-SUFFIX,icloudos.de,iCloud
-HOST-SUFFIX,icloudos.net,iCloud
-HOST-SUFFIX,icloudpay.net,iCloud
-HOST-SUFFIX,icloudsecure.net,iCloud
-HOST-SUFFIX,icloudsetup.com,iCloud
-HOST-SUFFIX,ios-icloud.com,iCloud
-HOST-SUFFIX,iwork.apple.com,iCloud
-HOST-SUFFIX,me.com,iCloud
-HOST-SUFFIX,myicloud.net,iCloud
-HOST-SUFFIX,mylcloud.net,iCloud
-HOST-SUFFIX,www-cdn.icloud.com.akadns.net,iCloud
-HOST-SUFFIX,wwwicloud.com,iCloud
-HOST-SUFFIX,icloud.com.akadns.net,iCloud
-HOST,beta.apple.com,TestFlight
-HOST,testflight.apple.com,TestFlight
-HOST-SUFFIX,mail.icloud.com.cn,AppleMail
-HOST-SUFFIX,mail.me.com,AppleMail
-HOST,aod-ssl.itunes.apple.com,AppleMusic
-HOST,aod.itunes.apple.com,AppleMusic
-HOST,audio-ssl.itunes.apple.com,AppleMusic
-HOST,audio.itunes.apple.com,AppleMusic
-HOST,mvod.itunes.apple.com,AppleMusic
-HOST,streamingaudio.itunes.apple.com,AppleMusic
-HOST-SUFFIX,applemusic.com,AppleMusic
-HOST-SUFFIX,blobstore.apple.com,AppleMusic
-HOST-SUFFIX,music.apple.com,AppleMusic
-HOST,guzzoni.apple.com,Siri
-HOST,fmfmobile.icloud.com,FindMy
-HOST,fmipmobile.icloud.com,FindMy
-HOST,statici.icloud.com,FindMy
-HOST,mask-api.fe.apple-dns.net,iCloudPrivateRelay
-HOST,mask-api.icloud.com,iCloudPrivateRelay
-HOST,mask-t.apple-dns.net,iCloudPrivateRelay
-HOST,mask.apple-dns.net,iCloudPrivateRelay
-HOST-SUFFIX,mask-h2.icloud.com,iCloudPrivateRelay
-HOST-SUFFIX,mask.icloud.com,iCloudPrivateRelay
-HOST,appleid.apple.com,AppleID
-HOST,appleid.cdn-apple.com,AppleID
-HOST,gsa.apple.com,AppleID
-HOST,idmsa.apple.com,AppleID
-HOST,amp-api.fitness.apple.com,FitnessPlus
-HOST,hls-svod.itunes.apple.com,FitnessPlus
-HOST-SUFFIX, applepay.berlin, Apple
-HOST-SUFFIX, applepay.co.rs, Apple
-HOST-SUFFIX, applepay.com.tw, Apple
-HOST-SUFFIX, applepay.hamburg, Apple
-HOST-SUFFIX, applepay.hk, Apple
-HOST-SUFFIX, applepay.info, Apple
-HOST-SUFFIX, applepay.jp, Apple
-HOST-SUFFIX, applepay.rs, Apple
-HOST-SUFFIX, applepay.tv, Apple
-HOST-SUFFIX, applepaycash.cn, Apple
-HOST-SUFFIX, applepaycash.com.cn, Apple
-HOST-SUFFIX, applepaycash.net, Apple
-HOST-SUFFIX, applepaycash.tv, Apple
-HOST-SUFFIX, applepaymerchantsupplies.info, Apple
-HOST-SUFFIX, applepaysupplies.berlin, Apple
-HOST-SUFFIX, applepaysupplies.cn, Apple
-HOST-SUFFIX, applepaysupplies.com, Apple
-HOST-SUFFIX, applepaysupplies.com.cn, Apple
-HOST-SUFFIX, applepaysupplies.info, Apple
-HOST-SUFFIX, applepaysupplies.net, Apple
-HOST-SUFFIX, applepaysupplies.tv, Apple
-HOST-SUFFIX, mzstatic.com, Apple
-HOST-KEYWORD, apple-support.akadns.net, Apple
-HOST-KEYWORD, apple.com.akadns.net, Apple
-HOST-KEYWORD, testflight, Apple
-HOST-KEYWORD, icloud.com.akadns.net, Apple
-USER-AGENT, Music*, Apple
-IP-CIDR, 139.178.128.0/18, Apple
-IP-CIDR, 144.178.0.0/19, Apple
-IP-CIDR, 144.178.36.0/22, Apple
-IP-CIDR, 144.178.48.0/20, Apple
-IP-CIDR, 17.0.0.0/8, Apple
-IP-CIDR, 192.35.50.0/24, Apple
-IP-CIDR, 198.183.17.0/24, Apple
-IP-CIDR, 205.180.175.0/24, Apple
-IP-CIDR, 63.92.224.0/19, Apple
-IP-CIDR, 65.199.22.0/23, Apple
+# = Apple
+# > Apple Websites
+host-suffix,aaplimg.com,Apple
+host-suffix,apple.co,Apple
+host-suffix,apple.com,Apple
+host-suffix,apple.com.cn,Apple
+host-suffix,itunes.com,Apple
+host-suffix,me.com,Apple
+
+# > Apple CIDR
+ip-cidr,17.0.0.0/8,Apple
+ip-cidr,63.92.224.0/19,Apple
+ip-cidr,65.199.22.0/23,Apple
+ip-cidr,139.178.128.0/18,Apple
+ip-cidr,144.178.0.0/19,Apple
+ip-cidr,144.178.36.0/22,Apple
+ip-cidr,144.178.48.0/20,Apple
+ip-cidr,192.35.50.0/24,Apple
+ip-cidr,198.183.17.0/24,Apple
+ip-cidr,205.180.175.0/24,Apple
+
+# > Apple Stores
+host,iosapps.itunes.apple.com,Apple Domestic
+host,osxapps.itunes.apple.com,Apple Domestic
+host-suffix,appsto.re,Apple
+host-suffix,mzstatic.com,Apple
+
+# > Apple Developer
+host-suffix,adcdownload.apple.com,Apple Domestic
+host-suffix,developer.apple.com,Apple
+
+# > iCloud
+host-keyword,icloud,Apple
+host-keyword,icoudo,Apple
+host-keyword,icoudos,Apple
+host-suffix,applemx-icloud.com,Apple
+host-suffix,icloud-content.com,Apple
+host-suffix,icloud-isupport.com,Apple
+host-suffix,icloudads.net,Apple
+host-suffix,icloudbox.net,Apple
+host-suffix,icloudbrowser.net,Apple
+host-suffix,icloude.com,Apple
+host-suffix,icloudmusic.net,Apple
+host-suffix,icloudmail.net,Apple
+host-suffix,icloudnet.net,Apple
+host-suffix,icloudpay.net,Apple
+host-suffix,icloudsecure.net,Apple
+host-suffix,myicloud.net,Apple
+host-suffix,mail.me.com.akadns.net,Apple
+host-suffix,www-cdn.icloud.com.akadns.net,Apple
+host-suffix,icloud-sandbox.com,Apple
+host-suffix,icloud.com.cn,Apple
+host-suffix,icloud.net.cn,Apple
+
+# > Apple APIs
+# >> Location Service
+host-suffix,ls.apple.com,Apple
+# >> Push Service
+host,init-p01md.apple.com,Apple
+host,init-p01st.push.apple.com,Apple
+host,init-s01st.push.apple.com,Apple
+host-suffix,courier-push-apple.com.akadns.net,Apple
+host-suffix,push.apple.com,Apple
+
+# >> Other Service
+host,api.smoot.apple.cn,OutSide
+host-suffix,safebrowsing.apple,OutSide
+
+# > Apple Music
+host,hls.itunes.apple.com,Apple Music
+host,aod.itunes.apple.com,Apple Music
+host,mvod.itunes.apple.com,Apple Music
+host-suffix,itunes.apple.com,Apple Music
+host-suffix,music.apple.com,Apple Music
+host-suffix,play.itunes.apple.com,Apple Music
+host-suffix,phobos.apple.com,Apple Music
+host-suffix,radio.itunes.apple.com,Apple Music
+host-suffix,radio-activity.itunes.apple.com,Apple Music
+host-suffix,radio-services.itunes.apple.com,Apple Music
+host-suffix,streamingaudio.itunes.apple.com,Apple Music
+
+# > Apple Kit
+host-suffix,apple-cloudkit.com,Apple
+host-suffix,apple-mapkit.com,Apple Domestic
+host-suffix,apple-livephotoskit.com,Apple
+
+# > Apple Resources Server
+host,testflight.apple.com,OutSide
+host-suffix,appldnld.apple.com,Apple Domestic
+host-suffix,secure-appldnld.apple.com,Apple
+host-suffix,itunesu.assets.itunes.com,OutSide
+
+# > Apple CDNs
+host,updates-http.cdn-apple.com,Apple Domestic
+host-suffix,apple-support.akadns.net,Apple
+host-suffix,apple.com.akadns.net,Apple
+host-suffix,apple.com.cdn20.com,Apple Domestic
+host-suffix,apple.com.edgekey.net.globalredir.akadns.net,Apple
+host-suffix,apple.com.mwcname.com,Apple Domestic
+host-suffix,apple.com.mwcloudcdn.com,Apple Domestic
+host-suffix,cdn-apple.com,Apple Domestic
+host-suffix,cdn-apple.com.akadns.net,Apple
+host-suffix,isu.apple.com.akadns.net,Apple
+host-suffix,itunes-apple.com.akadns.net,OutSide
+host-suffix,itunes.com.edgekey.net,OutSide
+host-suffix,origin-apple.com.akadns.net,Apple
+host-suffix,push-apple.com.akadns.net,Apple 
+host-suffix,prod-support.apple-support.akadns.net,Apple
