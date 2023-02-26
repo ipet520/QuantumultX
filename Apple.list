@@ -62,10 +62,6 @@ host,init-s01st.push.apple.com,Apple
 host-suffix,courier-push-apple.com.akadns.net,Apple
 host-suffix,push.apple.com,Apple
 
-# >> Other Service
-host,api.smoot.apple.cn,OutSide
-host-suffix,safebrowsing.apple,OutSide
-
 # > Apple Music
 host,hls.itunes.apple.com,Apple Music
 host,aod.itunes.apple.com,Apple Music
@@ -85,10 +81,8 @@ host-suffix,apple-mapkit.com,Apple Domestic
 host-suffix,apple-livephotoskit.com,Apple
 
 # > Apple Resources Server
-host,testflight.apple.com,OutSide
 host-suffix,appldnld.apple.com,Apple Domestic
 host-suffix,secure-appldnld.apple.com,Apple
-host-suffix,itunesu.assets.itunes.com,OutSide
 
 # > Apple CDNs
 host,updates-http.cdn-apple.com,Apple Domestic
@@ -101,8 +95,6 @@ host-suffix,apple.com.mwcloudcdn.com,Apple Domestic
 host-suffix,cdn-apple.com,Apple Domestic
 host-suffix,cdn-apple.com.akadns.net,Apple
 host-suffix,isu.apple.com.akadns.net,Apple
-host-suffix,itunes-apple.com.akadns.net,OutSide
-host-suffix,itunes.com.edgekey.net,OutSide
 host-suffix,origin-apple.com.akadns.net,Apple
 host-suffix,push-apple.com.akadns.net,Apple 
 host-suffix,prod-support.apple-support.akadns.net,Apple
