@@ -240,8 +240,7 @@ HOST-SUFFIX, zynamics.com, PROXY
 HOST-KEYWORD, google, PROXY
 HOST-KEYWORD, .blogspot., PROXY
 HOST-SUFFIX, goog, PROXY
-# > Apple
-HOST, testflight.apple.com, PROXY
+
 # > Automattic
 HOST-SUFFIX, gravatar.com, PROXY
 HOST-SUFFIX, tumblr.com, PROXY
@@ -444,11 +443,15 @@ HOST, wego.here.com, PROXY
 HOST-SUFFIX, go.dev, PROXY
 HOST-SUFFIX, golang.org, PROXY
 # ---(Apple)---
+host-suffix,itunes-apple.com.akadns.net, PROXY
+host-suffix,itunes.com.edgekey.net, PROXY
+host-suffix,itunesu.assets.itunes.com, PROXY
 HOST-SUFFIX, appsto.re, PROXY
 HOST-SUFFIX, smoot.apple.com, PROXY
 HOST-SUFFIX,apple-dns.net, Proxy
 HOST-SUFFIX,blobstore.apple.com, Proxy
 HOST-SUFFIX,digicert.com, Proxy
+HOST, testflight.apple.com, PROXY
 HOST, amp-api.podcasts.apple.com, PROXY
 HOST, beta.music.apple.com, PROXY
 HOST, books.itunes.apple.com, PROXY
@@ -456,7 +459,6 @@ HOST, lookup-api.apple.com, PROXY
 HOST, radio.itunes.apple.com, PROXY
 # > Web Preview
 HOST, books.apple.com, PROXY
-HOST, itunes.apple.com, PROXY
 HOST, tv.apple.com, PROXY
 # > News
 HOST, gateway.icloud.com, PROXY
