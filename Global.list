@@ -455,7 +455,6 @@ HOST, books.itunes.apple.com, PROXY
 HOST, lookup-api.apple.com, PROXY
 HOST, radio.itunes.apple.com, PROXY
 # > Web Preview
-HOST, apps.apple.com, PROXY
 HOST, books.apple.com, PROXY
 HOST, itunes.apple.com, PROXY
 HOST, tv.apple.com, PROXY
