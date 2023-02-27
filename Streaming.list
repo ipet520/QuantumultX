@@ -234,9 +234,7 @@ HOST-SUFFIX,watchespn.com,Disney
 USER-AGENT,Disney+*,Disney
 
 # > DMM
-HOST-SUFFIX,dmm.co.jp
-HOST-SUFFIX,dmm.com
-HOST-SUFFIX,dmm-extension.com
+
 
 # > HBO Asia
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,HBOAsia
