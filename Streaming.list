@@ -233,9 +233,6 @@ HOST-SUFFIX,watchdisneyfe.com,Disney
 HOST-SUFFIX,watchespn.com,Disney
 USER-AGENT,Disney+*,Disney
 
-# > DMM
-
-
 # > HBO Asia
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,HBOAsia
 HOST,bcbolthboa-a.akamaihd.net,HBOAsia
@@ -308,6 +305,11 @@ HOST-SUFFIX,phncdn.com
 HOST-SUFFIX,phprcdn.com
 HOST-SUFFIX,pornhub.com
 HOST-SUFFIX,pornhubpremium.com
+
+# > DMM
+HOST-SUFFIX,dmm.co.jp
+HOST-SUFFIX,dmm.com
+HOST-SUFFIX,dmm-extension.com
 
 # > TVer
 HOST-SUFFIX,dogatch.jp,TVer
