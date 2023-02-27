@@ -301,15 +301,15 @@ USER-AGENT,Argo*,Netflix
 # GEOIP,NETFLIX,no-resolve
 
 # > Pornhub
-HOST-SUFFIX,phncdn.com
-HOST-SUFFIX,phprcdn.com
-HOST-SUFFIX,pornhub.com
-HOST-SUFFIX,pornhubpremium.com
+HOST-SUFFIX,phncdn.com,Pornhub
+HOST-SUFFIX,phprcdn.com,Pornhub
+HOST-SUFFIX,pornhub.com,Pornhub
+HOST-SUFFIX,pornhubpremium.com,Pornhub
 
 # > DMM
-HOST-SUFFIX,dmm.co.jp
-HOST-SUFFIX,dmm.com
-HOST-SUFFIX,dmm-extension.com
+HOST-SUFFIX,dmm.co.jp,DMM
+HOST-SUFFIX,dmm.com,DMM
+HOST-SUFFIX,dmm-extension.com,DMM
 
 # > TVer
 HOST-SUFFIX,dogatch.jp,TVer
