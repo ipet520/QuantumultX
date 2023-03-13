@@ -340,7 +340,6 @@ HOST-SUFFIX, github.com, PROXY
 HOST-SUFFIX, github.io, PROXY
 HOST-SUFFIX, githubassets.com, PROXY
 HOST-SUFFIX, githubusercontent.com, PROXY
-HOST-SUFFIX, onedrive.live.com, PROXY
 HOST-SUFFIX, streaming.mediaservices.windows.net, PROXY
 HOST, assets1.xboxlive.com, PROXY
 HOST, assets2.xboxlive.com, PROXY
@@ -429,7 +428,6 @@ HOST, search.yahoo.co.jp, PROXY
 # > Yandex
 HOST-SUFFIX, yadi.sk, PROXY
 HOST, disk.yandex.com, PROXY
-
 # (Region-Restricted Access Denied)
 HOST-SUFFIX, aicoin.com, PROXY
 HOST-SUFFIX, aimoon.com, PROXY
@@ -476,4 +474,3 @@ HOST-SUFFIX, bing.com, PROXY
 HOST-SUFFIX, linkedin.com, PROXY
 HOST-SUFFIX, licdn.com, PROXY
 HOST-SUFFIX, msn.com, PROXY
-HOST-SUFFIX, skype.com, PROXY
