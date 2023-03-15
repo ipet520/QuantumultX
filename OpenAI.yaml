@@ -7,11 +7,11 @@
 # 策略选择：选择支持OpenAI的地区
 #############################################
 payload:
-  - DOMAIN-suffix, ai.com, OpenAI
-  - DOMAIN-suffix, openai.com, OpenAI
-  - DOMAIN-suffix, vimeo.com, OpenAI
-  - DOMAIN-suffix, vimeocdn.com, OpenAI
-  - DOMAIN-suffix, hcaptcha.com, OpenAI
-  - DOMAIN-suffix, akamaized.com, OpenAI
-  - DOMAIN, cdn.auth0.com, OpenAI
-  - DOMAIN, openaiapi-site.azureedge.net, OpenAI
+  - DOMAIN-suffix, ai.com
+  - DOMAIN-suffix, openai.com
+  - DOMAIN-suffix, vimeo.com
+  - DOMAIN-suffix, vimeocdn.com
+  - DOMAIN-suffix, hcaptcha.com
+  - DOMAIN-suffix, akamaized.com
+  - DOMAIN, cdn.auth0.com
+  - DOMAIN, openaiapi-site.azureedge.net
