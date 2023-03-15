@@ -8,7 +8,9 @@
 #############################################
 payload:
   - DOMAIN-suffix, ai.com, OpenAI
-  - DOMAIN-suffix, openai.com, OpenAI DOMAIN-suffix, vimeo.com, Op DOMAIN-suffix, vimeocdn.com, OpenAI
+  - DOMAIN-suffix, openai.com, OpenAI
+  - DOMAIN-suffix, vimeo.com, OpenAI
+  - DOMAIN-suffix, vimeocdn.com, OpenAI
   - DOMAIN-suffix, hcaptcha.com, OpenAI
   - DOMAIN-suffix, akamaized.com, OpenAI
   - DOMAIN, cdn.auth0.com, OpenAI
