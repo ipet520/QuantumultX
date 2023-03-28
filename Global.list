@@ -212,6 +212,7 @@ HOST-SUFFIX,elastic.com,PROXY
 HOST-SUFFIX,encyclopedia.com,PROXY
 HOST-SUFFIX,engadget.com,PROXY
 HOST-SUFFIX,etherscan.io,PROXY
+HOST-SUFFIX,esm.run,PROXY
 HOST-SUFFIX,eu,PROXY
 HOST-SUFFIX,eurekavpt.com,PROXY
 HOST-SUFFIX,f8.com,PROXY
@@ -310,6 +311,8 @@ HOST-SUFFIX,jitpack.io,PROXY
 HOST-SUFFIX,joinclubhouse.com,PROXY
 HOST-SUFFIX,jp,PROXY
 HOST-SUFFIX,justpaste.it,PROXY
+HOST-SUFFIX,jsdelivr.com,PROXY
+HOST-SUFFIX,jsdelivr.net,PROXY
 HOST-SUFFIX,kakao.com,PROXY
 HOST-SUFFIX,kakaocdn.net,PROXY
 HOST-SUFFIX,kat.cr,PROXY
