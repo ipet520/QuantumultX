@@ -122,7 +122,6 @@ HOST-SUFFIX,binance.cc,PROXY
 HOST-SUFFIX,binance.com,PROXY
 HOST-SUFFIX,binance.me,PROXY
 HOST-SUFFIX,binance.us,PROXY
-HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bit.ly,PROXY
 HOST-SUFFIX,bit.no.com,PROXY
 HOST-SUFFIX,bitcointalk.org,PROXY
@@ -355,7 +354,6 @@ HOST-SUFFIX,messenger.com,PROXY
 HOST-SUFFIX,mixlr.com,PROXY
 HOST-SUFFIX,mixpanel.com,PROXY
 HOST-SUFFIX,moon.fm,PROXY
-HOST-SUFFIX,msn.com,PROXY
 HOST-SUFFIX,mubi.com,PROXY
 HOST-SUFFIX,mvnrepository.com,PROXY
 HOST-SUFFIX,myspace.com,PROXY
