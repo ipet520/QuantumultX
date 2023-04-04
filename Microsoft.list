@@ -1,5 +1,4 @@
 # Microsoft Services
-HOST-KEYWORD,1drv,Microsoft
 HOST-KEYWORD,microsoft,Microsoft
 HOST-SUFFIX,aadrm.com,Microsoft
 HOST-SUFFIX,acompli.com,Microsoft
@@ -13,7 +12,6 @@ HOST-SUFFIX,azure.net,Microsoft
 HOST-SUFFIX,azureedge.net,Microsoft
 HOST-SUFFIX,azureiotcentral.com,Microsoft
 HOST-SUFFIX,azurerms.com,Microsoft
-HOST-SUFFIX,bing.com,Microsoft
 HOST-SUFFIX,cloudapp.net,Microsoft
 HOST-SUFFIX,cloudappsecurity.com,Microsoft
 HOST-SUFFIX,edgesuite.net,Microsoft
