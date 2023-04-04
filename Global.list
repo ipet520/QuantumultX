@@ -122,6 +122,7 @@ HOST-SUFFIX,binance.cc,PROXY
 HOST-SUFFIX,binance.com,PROXY
 HOST-SUFFIX,binance.me,PROXY
 HOST-SUFFIX,binance.us,PROXY
+HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bit.ly,PROXY
 HOST-SUFFIX,bit.no.com,PROXY
 HOST-SUFFIX,bitcointalk.org,PROXY
