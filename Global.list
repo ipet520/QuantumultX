@@ -461,6 +461,8 @@ HOST-SUFFIX,signal.org,PROXY
 HOST-SUFFIX,sketchappsources.com,PROXY
 HOST-SUFFIX,skydrive.wns.windows.com,PROXY
 HOST-SUFFIX,skype.com,PROXY
+HOST-SUFFIX,skypeassets.com,PROXY
+HOST-SUFFIX,skypeforbusiness.com,PROXY
 HOST-SUFFIX,slack-edge.com,PROXY
 HOST-SUFFIX,slideshare.net,PROXY
 HOST-SUFFIX,smartdnsproxy.com,PROXY
