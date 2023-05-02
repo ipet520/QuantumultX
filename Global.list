@@ -28,6 +28,7 @@ HOST,in.appcenter.ms,PROXY
 HOST,itunes.apple.com,PROXY
 HOST,lab.skk.moe,PROXY
 HOST,lookup-api.apple.com,PROXY
+HOST,link.002.se,PROXY
 HOST,news-assets.apple.com,PROXY
 HOST,news-client-search.apple.com,PROXY
 HOST,news-client.apple.com,PROXY
@@ -657,6 +658,7 @@ HOST-KEYWORD,spotify,PROXY
 HOST-KEYWORD,telegram,PROXY
 HOST-KEYWORD,twitter,PROXY
 HOST-KEYWORD,whatsapp,PROXY
+HOST-KEYWORD,xn--,PROXY
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,103.2.28.0/24,no-resolve
 IP-CIDR,103.2.30.0/23,no-resolve
