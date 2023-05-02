@@ -1,6 +1,5 @@
 HOST,a771.dscq.akamai.net,PROXY
 HOST,addons.mozilla.org,PROXY
-HOST,anti-ad.net,PROXY
 HOST,amp-api.podcasts.apple.com,PROXY
 HOST,api.ndsxfkjfvhzdsfio.quest,PROXY
 HOST,api.revenuecat.com,PROXY
@@ -89,6 +88,7 @@ HOST-SUFFIX,anchor.fm,PROXY
 HOST-SUFFIX,android.com,PROXY
 HOST-SUFFIX,androidify.com,PROXY
 HOST-SUFFIX,androidtv.com,PROXY
+HOST-SUFFIX,anti-ad.net,PROXY
 HOST-SUFFIX,aolcdn.com,PROXY
 HOST-SUFFIX,apache.org,PROXY
 HOST-SUFFIX,api.ai,PROXY
