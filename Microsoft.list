@@ -15,6 +15,7 @@ HOST-SUFFIX,azureiotcentral.com,Microsoft
 HOST-SUFFIX,azurerms.com,Microsoft
 HOST-SUFFIX,azurewebsites.net,Microsoft
 HOST-SUFFIX,bing.com,Microsoft
+HOST-SUFFIX,bing.net,Microsoft
 HOST-SUFFIX,cloudapp.net,Microsoft
 HOST-SUFFIX,cloudappsecurity.com,Microsoft
 HOST-SUFFIX,edgesuite.net,Microsoft
