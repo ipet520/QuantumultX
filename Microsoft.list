@@ -1,9 +1,9 @@
-# Microsoft Services
 HOST-SUFFIX,aadrm.com,Microsoft
 HOST-SUFFIX,acompli.com,Microsoft
 HOST-SUFFIX,acompli.net,Microsoft
 HOST-SUFFIX,aka.ms,Microsoft
 HOST-SUFFIX,akadns.net,Microsoft
+HOST-SUFFIX,akamaized.net,Microsoft
 HOST-SUFFIX,aspnetcdn.com,Microsoft
 HOST-SUFFIX,assets-yammer.com,Microsoft
 HOST-SUFFIX,azure.com,Microsoft
@@ -11,6 +11,7 @@ HOST-SUFFIX,azure.net,Microsoft
 HOST-SUFFIX,azureedge.net,Microsoft
 HOST-SUFFIX,azureiotcentral.com,Microsoft
 HOST-SUFFIX,azurerms.com,Microsoft
+HOST-SUFFIX,azurewebsites.net,Microsoft
 HOST-SUFFIX,bing.com,Microsoft
 HOST-SUFFIX,bing.net,Microsoft
 HOST-SUFFIX,bingapis.com,Microsoft
