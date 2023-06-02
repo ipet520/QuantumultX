@@ -332,7 +332,6 @@ HOST-SUFFIX,line.me,PROXY
 HOST-SUFFIX,linkedin.com,PROXY
 HOST-SUFFIX,liquid.com,PROXY
 HOST-SUFFIX,listennotes.com,PROXY
-HOST-SUFFIX,live.net,PROXY
 HOST-SUFFIX,livefilestore.com,PROXY
 HOST-SUFFIX,livejasmin.com,PROXY
 HOST-SUFFIX,livestream.com,PROXY
@@ -391,9 +390,6 @@ HOST-SUFFIX,okex.com,PROXY
 HOST-SUFFIX,okx.com,PROXY
 HOST-SUFFIX,omny.fm,PROXY
 HOST-SUFFIX,on2.com,PROXY
-HOST-SUFFIX,onedrive.com,PROXY
-HOST-SUFFIX,onedrive.live.com,PROXY
-HOST-SUFFIX,openai.com,PROXY
 HOST-SUFFIX,openvpn.net,PROXY
 HOST-SUFFIX,outbound.io,PROXY
 HOST-SUFFIX,owltail.com,PROXY
@@ -458,10 +454,6 @@ HOST-SUFFIX,shadowsocks.org,PROXY
 HOST-SUFFIX,shutterstock.com,PROXY
 HOST-SUFFIX,signal.org,PROXY
 HOST-SUFFIX,sketchappsources.com,PROXY
-HOST-SUFFIX,skydrive.wns.windows.com,PROXY
-HOST-SUFFIX,skype.com,PROXY
-HOST-SUFFIX,skypeassets.com,PROXY
-HOST-SUFFIX,skypeforbusiness.com,PROXY
 HOST-SUFFIX,slack-edge.com,PROXY
 HOST-SUFFIX,slideshare.net,PROXY
 HOST-SUFFIX,smartdnsproxy.com,PROXY
@@ -633,7 +625,6 @@ HOST-SUFFIX,zopim.com,PROXY
 HOST-SUFFIX,zynamics.com,PROXY
 HOST-SUFFIX,zyxel.com,PROXY
 HOST-KEYWORD,.pinterest.,PROXY
-HOST-KEYWORD,1drv,PROXY
 HOST-KEYWORD,1e100,PROXY
 HOST-KEYWORD,abema,PROXY
 HOST-KEYWORD,appledaily,PROXY
@@ -647,10 +638,8 @@ HOST-KEYWORD,github,PROXY
 HOST-KEYWORD,gmail,PROXY
 HOST-KEYWORD,google,PROXY
 HOST-KEYWORD,instagram,PROXY
-HOST-KEYWORD,onedrive,PROXY
 HOST-KEYWORD,porn,PROXY
 HOST-KEYWORD,sci-hub,PROXY
-HOST-KEYWORD,skydrive,PROXY
 HOST-KEYWORD,spotify,PROXY
 HOST-KEYWORD,telegram,PROXY
 HOST-KEYWORD,twitter,PROXY
