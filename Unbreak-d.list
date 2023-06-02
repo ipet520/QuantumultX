@@ -9,9 +9,6 @@ HOST,alt8-mtalk.google.com,DIRECT
 HOST,analytics.strava.com,DIRECT
 HOST,app.adjust.com,DIRECT
 HOST,app.appsflyer.com,DIRECT
-HOST,appapi.mnghx.info,DIRECT
-HOST,appapi.sdfex.xyz,DIRECT
-HOST,api.ddoukids.com,DIRECT
 HOST,bdtj.tagtic.cn,DIRECT
 HOST,btrace.qq.com,DIRECT
 HOST,ca.iadsdk.apple.com,DIRECT
@@ -22,7 +19,6 @@ HOST,cu.poloemby.xyz,DIRECT
 HOST,dl.google.com,DIRECT
 HOST,dl.l.google.com,DIRECT
 HOST,fairplay.l.qq.com,DIRECT
-HOST,h5.vrtwf.xyz,DIRECT
 HOST,livew.l.qq.com,DIRECT
 HOST,log.mmstat.com,DIRECT
 HOST,msg.umeng.com,DIRECT
@@ -34,7 +30,6 @@ HOST,sycm.mmstat.com,DIRECT
 HOST,update.googleapis.com,DIRECT
 HOST,vd.l.qq.com,DIRECT
 HOST,vi.l.qq.com,DIRECT
-HOST,yts.ogrwd.xyz,DIRECT
 HOST-SUFFIX,2550505.com,DIRECT
 HOST-SUFFIX,agemys.net,DIRECT
 HOST-SUFFIX,blog.google,DIRECT
