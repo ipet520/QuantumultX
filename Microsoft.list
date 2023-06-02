@@ -46,6 +46,7 @@ HOST-SUFFIX,office365.com,Microsoft
 HOST-SUFFIX,officeppe.net,Microsoft
 HOST-SUFFIX,omniroot.com,Microsoft
 HOST-SUFFIX,onedrive.com,Microsoft
+HOST-SUFFIX,onedrive.live.com,Microsoft
 HOST-SUFFIX,onenote.com,Microsoft
 HOST-SUFFIX,onenote.net,Microsoft
 HOST-SUFFIX,onestore.ms,Microsoft
@@ -60,6 +61,7 @@ HOST-SUFFIX,sharepointonline.com,Microsoft
 HOST-SUFFIX,skype.com,Microsoft
 HOST-SUFFIX,skypeassets.com,Microsoft
 HOST-SUFFIX,skypeforbusiness.com,Microsoft
+HOST-SUFFIX,skydrive.wns.windows.com,PROXY
 HOST-SUFFIX,staffhub.ms,Microsoft
 HOST-SUFFIX,svc.ms,Microsoft
 HOST-SUFFIX,sway-cdn.com,Microsoft
@@ -79,3 +81,5 @@ HOST-SUFFIX,yammer.com,Microsoft
 HOST-SUFFIX,yammerusercontent.com,Microsoft
 HOST-KEYWORD,1drv,Microsoft
 HOST-KEYWORD,microsoft,Microsoft
+HOST-KEYWORD,onedrive,Microsoft
+HOST-KEYWORD,skydrive,Microsoft
