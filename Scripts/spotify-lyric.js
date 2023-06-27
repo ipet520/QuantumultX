@@ -1,5 +1,5 @@
 */
-// 注意: QX用户需要手动填入appid和securityKey密钥, Surge和Loon用户无需填入!!!!
+
 const options = {
     appid: '20210803000905826',
     securityKey: 'Zm3zLUTJv17sjGzD43C1'
