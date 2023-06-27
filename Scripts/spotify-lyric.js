@@ -1,5 +1,5 @@
 [rewrite_local]
-^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/ url script-response-body 
+^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/ url script-response-body https://raw.githubusercontent.com/ipet520/QuantumultX/main/Scripts/spotify-lyric.js
 */
 // 注意: QX用户需要手动填入appid和securityKey密钥, Surge和Loon用户无需填入!!!!
 const options = {
