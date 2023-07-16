@@ -99,4 +99,4 @@ host-suffix,isu.apple.com.akadns.net,Apple
 host-suffix,origin-apple.com.akadns.net,Apple
 host-suffix,push-apple.com.akadns.net,Apple 
 host-suffix,prod-support.apple-support.akadns.net,Apple
-HOST-SUFFIX,digicert.com,Apple
+host-suffix,digicert.com,Apple
