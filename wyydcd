@@ -1,0 +1,28 @@
+#!name=网易有道词典
+#!desc=去广告解锁VIP
+#!icon=https://raw.githubusercontent.com/ipet520/QuantumultX/main/icon/ydcd.png
+
+[Script]
+http-response ^https:\/\/dict\.youdao\.com\/vip\/user\/status script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js, requires-body=true, timeout=60, tag=wyydcd
+
+[MITM]
+hostname = dict.youdao.com
+
+[URL Rewrite]
+# 翻译广告
+https?:\/\/dict\.youdao\.com\/course\/tab\/translateTab - reject-dict
+https?:\/\/audiobookpay\.kuwo\.cn/a\.p\?op=get_advertright - reject-dict
+# 听读训练
+https?:\/\/dict\.youdao\.com\/homepage\/tile - reject-dict
+# 首次查词弹窗
+https?:\/\/api-overmind\.youdao\.com\/openapi\/get\/luna\/dict\/dict-mobile\/prod\/dictCommonConfig - reject-dict
+# 首页弹窗
+https?:\/\/cdke\.youdao\.com\/course3\/recommend\/dict\/startup - reject-dict
+# 搜索预想
+https?:\/\/dict\.youdao\.com\/commonsearch - reject-dict
+# 会员优惠券弹窗
+https?:\/\/dict\.youdao\.com\/vip\/activity\/couponinfo - reject-dict
+# 首页左上角福利中心
+https?:\/\/dict\.youdao\.com\/dictusertask\/system - reject-dict
+# 会员界面横幅广告
+https?:\/\/dictvip-business\.youdao\.com\/home\/ad - reject-dict
