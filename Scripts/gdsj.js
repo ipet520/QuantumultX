@@ -1,5 +1,3 @@
-*/
-
 let obj = JSON.parse($response.body);
 const url = $request.url;
 
